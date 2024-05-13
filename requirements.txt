@@ -1,7 +1,3 @@
-pyyaml
-typeguard
-catkin_pkg
-jinja2
 tensorflow
 scikit-learn
 opencv-python
