@@ -66,4 +66,3 @@ ros2 launch robot_launch simulation.launch.py world_file:=maze_test mode:=test
 
 ## Additional Notes
 * Refer to the README files in each package for more details on their specific functionalities and usage.
-# Tezeusz-Bot
