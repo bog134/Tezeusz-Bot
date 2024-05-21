@@ -8,7 +8,7 @@ This package provides functionalities for interfacing with robot sensors, specif
     * Subscribes to raw lidar scan data from a specified topic.
     * Extracts relevant information from the lidar data, such as ranges and angles.
     * Publishes processed lidar data as a Float32MultiArray message on a designated topic.
-* **ransformations:**
+* **Transformations:**
     * Utilizes tf2 to handle coordinate transformations between the robot's base frame and the lidar sensor frame.
     * Ensures that lidar data is published in the correct reference frame for downstream nodes.
 
